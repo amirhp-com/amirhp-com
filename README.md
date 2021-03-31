@@ -27,11 +27,11 @@ To work/collaborate with me, it's enough to fill my site's [Contact Form](https:
 
 <img align="left" width="160" src="https://hpv.im/blackswan.jpg">
 
-&nbsp;&nbsp;&nbsp;[Blog (amirhosseinhpv.ir)](https://amirhosseinhpv.ir/)
+&nbsp;&nbsp;[Blog (amirhosseinhpv.ir)](https://amirhosseinhpv.ir/)
 
-&nbsp;&nbsp;&nbsp;[Portfolios](https://amirhosseinhpv.com/portfolios) / [Testimonials](https://amirhosseinhpv.com/testimonials) / [Resume (PDF)](https://hpv.im/resume.pdf)
+&nbsp;&nbsp;[Portfolios](https://amirhosseinhpv.com/portfolios) / [Testimonials](https://amirhosseinhpv.com/testimonials) / [Resume (PDF)](https://hpv.im/resume.pdf)
 
-&nbsp;&nbsp;&nbsp;I'm available at
+&nbsp;&nbsp;I'm available at
 [WhatsApp](https://api.whatsapp.com/send?phone=989118629342&text=Hello%20from%20Github%20%F0%9F%98%83),
 [LinkedIn](https://linkedin.com/in/amirhosseinhpv),
 [Telegram](https://t.me/amirhosseinhpv),
@@ -39,7 +39,7 @@ To work/collaborate with me, it's enough to fill my site's [Contact Form](https:
 [Facebook](https://facebook.com/amirhosseinhpv),
 [Twitter](https://twitter.com/amirhosseinhpv/),
 
-&nbsp;&nbsp;&nbsp;[Email](mailto:its@hpv.im) and Phone Calls (+98911-862-9342).
+&nbsp;&nbsp;[Email](mailto:its@hpv.im) and Phone Calls (+98911-862-9342).
 
 &nbsp;
 ```php
