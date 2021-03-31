@@ -16,7 +16,7 @@ I’m **Amirhossein Hosseinpour** from [Tehran](https://www.google.com/search?q=
 
 #### *What do I offer?*
 
-Well, I can offer you Professional services like WordPress customization, plugin development, debugging and solutions alongside with PHP, JavaScript, Database -driven apps **AND** Windows platform software programming (AU3) with premium support ([See testimonials](https://amirhosseinhpv.com/testimonials)).
+Well, I can offer you Professional services like WordPress customization, plugin development, debugging and solutions alongside with PHP, JavaScript, Database -driven apps AND Windows platform software programming (AU3) with **Real Premium Support** ([See testimonials](https://amirhosseinhpv.com/testimonials)).
 
 #### *Interested in my works?*
 
