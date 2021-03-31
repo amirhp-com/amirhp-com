@@ -11,8 +11,8 @@
 
 #### *Hello, Dolly!*
 
-I’m **Amirhossein Hosseinpour**, a WordPressoholic from [Tehran](https://www.google.com/search?q=Tehran)
-\( originally from [Sari](https://www.google.com/search?q=Sari+Mazandaran)\), a WordPress lover and Contributor. [Check out my plugins](https://profiles.wordpress.org/amirhosseinhpv/) in official WordPress plugins directory or [browse some of my written codes](https://github.com/amirhosseinhpv?tab=repositories) here in GitHub. A complete portfolio of works I've done by myself or in collaboration with awesome people around the world could be found at [amirhosseinhpv.com](https://amirhosseinhpv.com/portfolios/).
+I’m **Amirhossein Hosseinpour** from [Tehran](https://www.google.com/search?q=Tehran)
+\( originally from [Sari](https://www.google.com/search?q=Sari+Mazandaran)\), a WordPress lover and Contributor ( #WordPressoholic ). [Check out my plugins](https://profiles.wordpress.org/amirhosseinhpv/) in official WordPress plugins directory or [browse some of my written codes](https://github.com/amirhosseinhpv?tab=repositories) here in GitHub. A complete portfolio of works I've done by myself or in collaboration with awesome people around the world could be found at [amirhosseinhpv.com](https://amirhosseinhpv.com/portfolios/).
 
 #### *What do I offer?*
 
