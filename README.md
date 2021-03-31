@@ -25,12 +25,8 @@ To work/collaborate with me, it's enough to fill my site's [Contact Form](https:
 
 &nbsp;
 
-<img align="left" width="160" src="https://hpv.im/blackswan.jpg">
-
 &nbsp;&nbsp;[Blog (amirhosseinhpv.ir)](https://amirhosseinhpv.ir/)
-
 &nbsp;&nbsp;[Portfolios](https://amirhosseinhpv.com/portfolios) / [Testimonials](https://amirhosseinhpv.com/testimonials) / [Resume (PDF)](https://hpv.im/resume.pdf)
-
 &nbsp;&nbsp;I'm available at
 [WhatsApp](https://api.whatsapp.com/send?phone=989118629342&text=Hello%20from%20Github%20%F0%9F%98%83),
 [LinkedIn](https://linkedin.com/in/amirhosseinhpv),
