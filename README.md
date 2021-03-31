@@ -37,9 +37,6 @@ I'm available at
 [Facebook](https://facebook.com/amirhosseinhpv),
 [Twitter](https://twitter.com/amirhosseinhpv/),
 
-Email: [its@hpv.im](mailto:its@hpv.im) and Phone Calls: +98911-862-9342.
-
-&nbsp;
 ```php
 echo "Code is Poetry";
 ```
