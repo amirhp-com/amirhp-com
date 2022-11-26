@@ -1,8 +1,9 @@
-I’m **Amirhossein Hosseinpour**, a WordPress lover and Contributor ( #WordPressoholic ). I can offer you Professional services like WordPress customization, WordPress plugin development, WordPress debugging and solutions alongside PHP, JavaScript, Database -driven apps AND Windows software programming (AU3) with **Real-Time Premium Support** ([testimonials](https://amirhosseinhpv.com/testimonials) / [portfolios](https://amirhosseinhpv.com/portfolios/)).
+Experienced WordPress developer with extensive server-side web development knowledge gathered since the year 2015 in the industry and a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in both Back-End and Front-End development and writing code to create systems that are reliable and user-friendly using skills including HTML, JavaScript, CSS, PHP, and Git version control. A Confident communicator, strategic thinker, and innovative creator who develops software that are customized to meet a company’s organizational needs, highlight their core competencies, and further their success. I have strong communication skills and the ability to listen carefully to user feedback to determine modifications for optimal user function.
 
+_Drop me a line if you need super professional WordPress-based services._
 
-To **hire me**, Fill this [Contact Form](https://hpv.im/contact/) or direct message me anywhere you are comfortable (I prefer Telegram, Whatsapp and Skype).
-&nbsp;
+**[Contact me (amirhp.com)](http://amirhp.com/contact)** / [WordPress Plugins @PeproDev](https://profiles.w.org/amirhpcom)
 
-[Website](https://amirhosseinhpv.com/) / [Blog](https://amirhosseinhpv.ir/) / [WhatsApp](https://api.whatsapp.com/send?phone=989118629342&text=Hello%20from%20Github%20%F0%9F%98%83) / [LinkedIn](https://linkedin.com/in/amirhosseinhpv) / [Telegram](https://t.me/amirhosseinhpv) / [Instagram](https://instagram.com/amirhosseinhpv/) / [Facebook](https://facebook.com/amirhosseinhpv) / [Twitter](https://twitter.com/amirhosseinhpv/) / [WordPress Plugins](https://profiles.wordpress.org/amirhosseinhpv/)
-
+E-mail: [its@amirhp.com](mailto:hi@amirhp.com?subject=Hi)&nbsp;&nbsp;&nbsp;
+Call, WhatsApp: [+1 (720) 778-1755](https://api.whatsapp.com/send?phone=17207781755&text=Hi)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Social and Other Profiles](http://amirhp.com/landing)
