@@ -2,7 +2,7 @@ Experienced WordPress developer with extensive server-side web development knowl
 
 _Drop me a line if you need super professional WordPress-based services._
 
-**[Contact me (amirhp.com)](http://amirhp.com/contact)** / [WordPress Plugins @PeproDev](https://profiles.w.org/amirhpcom)
+**[Contact me (amirhp.com)](http://amirhp.com/contact)** / [WordPress Contributions](https://profiles.w.org/amirhpcom)
 
 E-mail: [its@amirhp.com](mailto:hi@amirhp.com?subject=Hi)&nbsp;&nbsp;&nbsp;
 Call, WhatsApp: [+1 (720) 778-1755](https://api.whatsapp.com/send?phone=17207781755&text=Hi)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
