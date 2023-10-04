@@ -4,6 +4,6 @@ _Drop me a line if you need super professional WordPress-based services._
 
 **[Contact me (amirhp.com)](http://amirhp.com/contact)** / [WordPress Contributions](https://profiles.w.org/amirhpcom)
 
-E-mail: [its@amirhp.com](mailto:hi@amirhp.com?subject=Hi)&nbsp;&nbsp;&nbsp;
+E-mail: [its [at] amirhp.com](mailto:hi@amirhp.com?subject=Hi)&nbsp;&nbsp;&nbsp;
 Call, WhatsApp: [+1 (720) 778-1755](https://api.whatsapp.com/send?phone=17207781755&text=Hi)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[Social and Other Profiles](http://amirhp.com/landing)
+[Social and Other Profiles](https://amirhp.com/landing)
